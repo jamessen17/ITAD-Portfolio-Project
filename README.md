@@ -23,11 +23,11 @@ The portfolio is designed to **showcase key data analysis skills**:
 
 ## 📊 Featured Visuals
 
-### Refurbishment Yield
-![Refurbishment Yield](assets/images/refurb_yield.png)
+### Environmental Impact Trends
+![Environmental Trends](/Images/Environment.png)
 
-### Average Margin by Device Type
-![Margin by Device Type](assets/images/margin_by_device.png)
+### Customer Segment Revenue
+![Customer Segment Revenue](/Images/Customer.png)
 
 ### Refurbished Devices Over Time
 ![Refurb Trend](assets/images/refurb_trend.png)
