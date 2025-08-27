@@ -29,8 +29,14 @@ The portfolio is designed to **showcase key data analysis skills**:
 ### Customer Segment Revenue
 ![Customer Segment Revenue](/Images/Customer.png)
 
-### Refurbished Devices Over Time
-![Refurb Trend](assets/images/refurb_trend.png)
+### Revenue & Volume Trends
+![Revenue & Volume Trends](/Images/Revenue.png)
+
+### Sales Revenue over Time
+![Sales Revenue over Time](/Images/Sales_Revenue_Time.png)
+
+### Sales by Device Type
+![Sales by Device Type](/Images/Sales_Device_Type.png)
 
 ---
 
