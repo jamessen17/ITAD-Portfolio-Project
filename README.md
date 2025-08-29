@@ -32,7 +32,7 @@ The portfolio is designed to **showcase key data analysis skills**:
 ### Revenue & Volume Trends
 ![Revenue & Volume Trends](/Images/Revenue.png)
 
-### Sales Revenue over Time
+### Sales Revenue over Time (Year 2024)
 ![Sales Revenue over Time](/Images/Sales_Revenue_Time.png)
 
 ### Sales by Device Type
