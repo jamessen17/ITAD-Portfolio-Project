@@ -29,9 +29,6 @@ The portfolio is designed to **showcase key data analysis skills**:
 ### Customer Segment Revenue
 ![Customer Segment Revenue](/Images/Customer.png)
 
-### Revenue & Volume Trends (Year 2022)
-![Revenue & Volume Trends](/Images/Revenue.png)
-
 ### Sales Revenue over Time 
 ![Sales Revenue over Time](/Images/Sales_Revenue_Time.png)
 
