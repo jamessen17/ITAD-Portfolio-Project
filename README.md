@@ -1,7 +1,7 @@
 # ITAD Portfolio Project
 
 
-# ITAD Data Analysis Portfolio Dashboard
+# ITAD Data Analysis Dashboard
 ITAD Portfolio Project: Complete Strategic Guide
 
 ## Overview
